@@ -17,7 +17,7 @@ function Hero(){
                 </div>
                 {/* right */}
                 <div className="hero-right-div">
-                    <h1 className="title-hero"> 👋 Hi, I'm Arjumand Rukhsar </h1>
+                    <h1 className="title-hero"> 👋 Hi, I am Arjumand Rukhsar </h1>
                      <h1 className="effect">
                     {/* typewriter effect */}
                     <Typewriter

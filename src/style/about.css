@@ -1,0 +1,37 @@
+body{
+    background-color: #E5E5E5;
+}
+
+.social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s-icon{
+    font-size: 30px;
+    color: blue;
+    margin: 5px;
+}
+.s-icon2{
+    font-size: 35px;
+    color: rgb(238, 33, 170);
+    margin: 5px;
+
+}
+.s-icon3{
+    font-size: 35px;
+    color:  red;
+    margin: 5px;
+}
+.s-icon4{
+    font-size: 30px;
+    color: blue;
+    margin: 5px;
+
+}
+.s-icon5{
+    font-size: 35px;
+    color: red;
+    margin: 5px;
+
+}
